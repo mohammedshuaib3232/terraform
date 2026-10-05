@@ -1,4 +1,4 @@
-# Task 3: Terraform and Docker
+#Terraform and Docker
 
 This project uses Terraform with the Docker provider to create an Nginx container named `terraform-nginx`. It maps port `8080` on your computer to port `80` in the container.
 
